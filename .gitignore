@@ -1,0 +1,6 @@
+/target
+
+*.png
+*.xlsx
+*.md
+!README.md
